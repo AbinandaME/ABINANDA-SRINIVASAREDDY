@@ -41,13 +41,13 @@ I enjoy translating product design requirements into manufacturable processes, s
 
 ## Contact
 
-- Email: [sriabireddy@gmail.com](mailto:sriabireddy@gmail.com)
+- Email: [abhisihil004@gmail.com](mailto:sriabireddy@gmail.com)
 - Location: Bristol, United Kingdom
 - Phone: +44 7448 300611
 
 ## Portfolio
 
-My personal portfolio website will be published at: **https://YOUR-USERNAME.github.io/**
+My personal portfolio website will be published at: **https://ABINANDA-SRINIVASAREDDY.github.io/**
 
 ---
 
