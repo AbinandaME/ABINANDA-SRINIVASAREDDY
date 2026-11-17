@@ -1,5 +1,5 @@
-# ABINANDA-SRINIVASAREDDY
-# Hi, I'm Abinanda Srinivasareddy 👋
+
+# Hi, I'm ABINANDA SRINIVASAREDDY
 
 **Process Engineer | New Product Introduction (NPI) | Assembly & Manufacturing Process Development**
 
